@@ -13,6 +13,7 @@
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
 			<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Soniczac7&show_icons=true&theme=merko&count_private=true&include_all_commits=true&enable_animations=true">
+			<br>
       <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soniczac7&theme=merko&count_private=true&enable_animations=true">
 		</td>
 	</tr>
