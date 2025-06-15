@@ -4,7 +4,7 @@
 ## About me:
 
 - 🔭 I’m currently working on: Download Manager.
-- 🌱 I’m currently studing: Computing!
+- 🌱 I’m currently studing: Degree in Software Development
 - 🤔 I’m looking for help with: Converting the Download Manager chromium extention to Manifest Version `3`.
 - 📫 How to reach me: On [email](mailto:soniczac7@gmail.com) ([soniczac7@gmail.com](mailto:soniczac7@gmail.com))
 
